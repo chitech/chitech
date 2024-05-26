@@ -13,7 +13,7 @@ primarySkills:
     languages: [JavaScript, Python, PHP, HTML, CSS]
     frameworks: [React, Drupal, WordPress]
     tools: [Git, GitLab, GitHub]
-    certifications: [AWS Cloud Foundation]
+    certifications: [AWS Cloud Foundation, Microsoft Azure AI Fundamentals]
 extracurricular:
     activities: [Event Planning, Podcast Hosting]
 personalInterests:
